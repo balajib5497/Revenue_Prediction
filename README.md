@@ -3,3 +3,6 @@
     - Other techniques (commented):
         1. Oversampling, Downsampling.
         2. Parameter optimization using Gaussian Process
+    - see "insights" folder for the Data Analysis.
+    - Challenge: https://www.kaggle.com/c/ga-customer-revenue-prediction
+    
